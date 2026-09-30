@@ -2,4 +2,4 @@
 
 - **Nombre:** _(Alexander Alvarado, Amid Ramirez)_
 - **Repositorio:** _()_
-- **GitHub Pages:** _()_
+- **GitHub Pages:** _(https://amdramirez.github.io/alvarado-alexander-ramirezs-amid-lab-dom/)_
